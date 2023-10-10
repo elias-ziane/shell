@@ -1,0 +1,21 @@
+Documentation.pdf
+
+Ubuntu:
+
+Afficher le manuel de la commande ls = "man ls"
+
+Afficher les fichiers cachés du home de votre utilisateur = "ls -a"
+
+Afficher les fichiers cachés plus les informations sur les droits sous forme de liste =  "ls -a	-l"
+
+
+Comment ajouter des options a une commande ?
+
+Il faut écrire la commande, suivi de l'option que l'on souhaite. Par exempl : ls -a. cette option permet d'afficher les fichiers cachés.
+
+
+
+Quelles sont les deux syntaxes principales d'écriture des options pour une commande ?
+
+
+les deux syntaxes principales sont, "Les lettre tapées après un tiret" et "Les mots tapés après 2 Tirets".
